@@ -1,0 +1,14 @@
+Motion Nexus OpenNI Extension. For use with Adobe AIR for best performance. Suggest using plugin for development and then switching to AIR extension for release to location of files because OpenNI2 is a runtime usage instead of install.
+
+Requirements:
+=============
+
+1) Motion Nexus OpenNI extension
+2) OpenNI device
+3) Flash Builder IDE or ant script
+
+Desription:
+=============
+In order to use, you must copy all items from the "redist" folder into the main folder or location of the native executable.
+
+OpenNI extension is specific to the OpenNI and allow for skeletal manipulation and engagement. Please check out <a href="http://motionnexus.zendesk.com/home">Motion Nexus support</a> for questions. Thanks for using Motion Nexus.

@@ -1,0 +1,14 @@
+Motion Nexus Kinect Extension. For use with Adobe AIR for best performance.
+
+Requirements:
+=============
+
+1) Motion Nexus Kinect extension
+2) Kinect device
+3) Flash Builder IDE or ant script
+
+Desription:
+=============
+In order to use, you must copy all items from the "redist" folder into the main folder or location of the native executable.
+
+Kinect extension is specific to the KInect SDK and allow for skeletal manipulation and engagement. Please check out <a href="http://motionnexus.zendesk.com/home">Motion Nexus support</a> for questions. Thanks for using Motion Nexus.
