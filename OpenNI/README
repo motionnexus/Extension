@@ -12,3 +12,5 @@ Desription:
 In order to use, you must copy all items from the "redist" folder into the main folder or location of the native executable.
 
 OpenNI extension is specific to the OpenNI and allow for skeletal manipulation and engagement. Please check out <a href="http://motionnexus.zendesk.com/home">Motion Nexus support</a> for questions. Thanks for using Motion Nexus.
+
+Make sure you are compiling your application with at least Flex 4.6 and AIR 3.5 to match what the ANE was compiled with
